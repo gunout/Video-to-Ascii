@@ -60,7 +60,8 @@ OU avec export .mp4
 
 ## 🎬 Démonstration
 
-<img width="1096" height="492" alt="dem" src="https://github.com/user-attachments/assets/be6df1b5-3359-428f-af8c-f02bc3e01d05" />
+
+<img width="2096" height="940" alt="dem" src="https://github.com/user-attachments/assets/7d9c3774-cdad-4af0-bfd3-320a5e6ec8ff" />
 
 
 
