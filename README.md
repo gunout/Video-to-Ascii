@@ -64,7 +64,10 @@ OU avec export .mp4
 [futurcrew_ascii.mp4](https://github.com/gunout/Video-to-Ascii/releases/download/video/futurcrew_ascii.mp4) 
 
 
-
+<video src="https://github.com/gunout/Video-to-Ascii/releases/download/video/futurcrew_ascii.mp4" controls width="100%" style="max-width:800px; border-radius:8px; border:1px solid #333;">
+  Votre navigateur ne supporte pas la lecture vidéo. 
+  <a href="https://github.com/gunout/Video-to-Ascii/releases/download/video/futurcrew_ascii.mp4">Télécharger la vidéo</a>
+</video>
 
 
 By Gleaphe 2026 .
