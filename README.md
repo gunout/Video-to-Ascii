@@ -46,6 +46,10 @@ ________________________________________________________
 
     pip install -r requirements.txt 
 
+# Installer ffmpeg et mpv (système)
+
+    sudo apt install ffmpeg mpv
+
 # RUN COMMANDE ON TERMINAL 
 
     python converter.py video.mp4 --width 220 --palette optimale --contrast 1.2 --sharpness 1.3 --gamma 0.7
@@ -53,6 +57,15 @@ ________________________________________________________
 OU avec export .mp4
     
     python converter.py video.mp4 --width 220 --palette optimale --contrast 1.2 --sharpness 1.3 --gamma 0.7 --export nom_de_video.mp4
+
+
+
+
+
+
+
+
+
 
 By Gleaphe 2026 .
 
