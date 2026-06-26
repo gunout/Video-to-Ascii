@@ -61,7 +61,9 @@ OU avec export .mp4
 ## 🎬 Démonstration
 
 
-<img width="2096" height="940" alt="dem" src="https://github.com/user-attachments/assets/7d9c3774-cdad-4af0-bfd3-320a5e6ec8ff" />
+
+<img width="4096" height="1837" alt="dem" src="https://github.com/user-attachments/assets/e9c300e3-94f6-4772-af0e-fd77a37c56d1" />
+
 
 
 
