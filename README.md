@@ -60,9 +60,7 @@ OU avec export .mp4
 
 ## 🎬 Démonstration
 
-[![▶️ Regarder la vidéo ASCII](https://img.shields.io/badge/▶️_Regarder_la_vidéo-ASCII_art-00ff00?style=for-the-badge&logo=github)](https://github.com/gunout/Video-to-Ascii/releases/download/video/futurcrew_ascii.mp4)
-
-[![📥 Télécharger le MP4](https://img.shields.io/badge/📥_Télécharger_le_MP4-futurcrew_ascii-ff6600?style=for-the-badge&logo=github)](https://github.com/gunout/Video-to-Ascii/releases/download/video/futurcrew_ascii.mp4)
+<img width="640" height="287" alt="dem" src="https://github.com/user-attachments/assets/65637324-dbdb-4896-a0b9-d87b3e47d530" />
 
 
 
