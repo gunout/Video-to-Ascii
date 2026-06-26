@@ -34,5 +34,26 @@ numpy>=1.24.0
 ________________________________________________________
 
 
+# CREER UN ENVIRONEMENT VIRTUEL PYTHON
+
+    python -m venv vid
+
+# ACTIVER L'ENVIRONEMENT VIRTUEL
+
+    source vid/bin/activate
+
+# INSTALLER LES DEPENDENCES 
+
+    pip install -r requirements.txt 
+
+# RUN COMMANDE ON TERMINAL 
+
+    python converter.py video.mp4 --width 220 --palette optimale --contrast 1.2 --sharpness 1.3 --gamma 0.7
+
+OU avec export .mp4
+    
+    python converter.py video.mp4 --width 220 --palette optimale --contrast 1.2 --sharpness 1.3 --gamma 0.7 --export nom_de_video.mp4
+
+By Gleaphe 2026 .
 
 
