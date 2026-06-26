@@ -58,16 +58,13 @@ OU avec export .mp4
     
     python converter.py video.mp4 --width 220 --palette optimale --contrast 1.2 --sharpness 1.3 --gamma 0.7 --export nom_de_video.mp4
 
-
-
-
-[futurcrew_ascii.mp4](https://github.com/gunout/Video-to-Ascii/releases/download/video/futurcrew_ascii.mp4) 
-
+![ASCII Video Preview](https://img.shields.io/badge/▶️_Lire_la_vidéo-ASCII_art-blue?style=for-the-badge&logo=github)](https://github.com/gunout/Video-to-Ascii/releases/download/video/futurcrew_ascii.mp4)
 
 <video src="https://github.com/gunout/Video-to-Ascii/releases/download/video/futurcrew_ascii.mp4" controls width="100%" style="max-width:800px; border-radius:8px; border:1px solid #333;">
   Votre navigateur ne supporte pas la lecture vidéo. 
   <a href="https://github.com/gunout/Video-to-Ascii/releases/download/video/futurcrew_ascii.mp4">Télécharger la vidéo</a>
 </video>
+
 
 
 By Gleaphe 2026 .
